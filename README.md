@@ -11,12 +11,12 @@ PS 2. There are lots of classes related to Python language from BackEnd Python B
 - Practicing Python <br>
   [Algorithms, SnakeGame. Coder mode activate! ](practicing_python)
 - Files and Exception Handling <br>
-  [Files, Exceptions](bootcamp_python_womakers\arquivos_e_excecoes)
+  [Files, Exceptions](bootcamp_python_womakers/arquivos_e_excecoes)
 - Database <br>
-  [Sqlite3, database, SQL](bootcamp_python_womakers\banco_de_dados)
+  [Sqlite3, database, SQL](bootcamp_python_womakers/banco_de_dados)
 - Flask micro-framework <br>
-  [Web Framework, flask, API development](bootcamp_python_womakers\flask)
+  [Web Framework, flask, API development](bootcamp_python_womakers/flask)
 - OOP <br>
-  [abstract classes, constructor, colorama ](bootcamp_python_womakers\poo)
+  [abstract classes, constructor, colorama ](bootcamp_python_womakers/poo)
 - Synchronous and Asynchronous <br>
-  [asyncio lib](bootcamp_python_womakers\sincronismo)
+  [asyncio lib](bootcamp_python_womakers/sincronismo)
